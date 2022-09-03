@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nguyenhuunhat
+- 👋 Hi, I’m nguyenhuunhat
 - 👀 I’m interested in data.
 - 🌱 I’m currently learning Data engineering.
 <!--- - 💞️ I’m looking to collaborate on ...
